@@ -14,7 +14,9 @@
 
 ## 🖼️ Preview
 
-[Landing Page Preview]
+Landing Page Preview
+
+<img width="1886" height="980" alt="image" src="https://github.com/user-attachments/assets/bcf997e4-d624-4fe5-9f0c-a20ecf69b49e" />
 
 ---
 
